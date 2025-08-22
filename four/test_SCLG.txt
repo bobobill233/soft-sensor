@@ -1,0 +1,117 @@
+Model memory size: 932.34 MB
+Test Batch [1/30], MAE: 0.0329
+Test Batch [2/30], MAE: 0.0133
+Test Batch [3/30], MAE: 0.0142
+Test Batch [4/30], MAE: 0.0182
+Test Batch [5/30], MAE: 0.0347
+Test Batch [6/30], MAE: 0.0123
+Test Batch [7/30], MAE: 0.0123
+Test Batch [8/30], MAE: 0.0176
+Test Batch [9/30], MAE: 0.0145
+Test Batch [10/30], MAE: 0.0144
+Test Batch [11/30], MAE: 0.0468
+Test Batch [12/30], MAE: 0.0062
+Test Batch [13/30], MAE: 0.0210
+Test Batch [14/30], MAE: 0.0195
+Test Batch [15/30], MAE: 0.0207
+Test Batch [16/30], MAE: 0.0245
+Test Batch [17/30], MAE: 0.0172
+Test Batch [18/30], MAE: 0.0163
+Test Batch [19/30], MAE: 0.0199
+Test Batch [20/30], MAE: 0.0269
+Test Batch [21/30], MAE: 0.0159
+Test Batch [22/30], MAE: 0.0149
+Test Batch [23/30], MAE: 0.0237
+Test Batch [24/30], MAE: 0.0204
+Test Batch [25/30], MAE: 0.0173
+Test Batch [26/30], MAE: 0.0210
+Test Batch [27/30], MAE: 0.0440
+Test Batch [28/30], MAE: 0.0120
+Test Batch [29/30], MAE: 0.0168
+Test Batch [30/30], MAE: 0.0336
+Test Accuracy (within threshold of 5.0): 0.9664
+Overall Test MAE: 1.8366
+Overall Test RMSE: 2.5924
+Overall Test SMAPE: 1.6580
+Overall Test MAPE: 1.6626
+Overall Test MASE: 0.0163
+Overall Test OWA: 0.0123
+Total test time: 3.63 seconds
+Model memory size: 932.34 MB
+Test Batch [1/30], MAE: 0.0253
+Test Batch [2/30], MAE: 0.0187
+Test Batch [3/30], MAE: 0.0122
+Test Batch [4/30], MAE: 0.0154
+Test Batch [5/30], MAE: 0.0232
+Test Batch [6/30], MAE: 0.0225
+Test Batch [7/30], MAE: 0.0092
+Test Batch [8/30], MAE: 0.0237
+Test Batch [9/30], MAE: 0.0231
+Test Batch [10/30], MAE: 0.0295
+Test Batch [11/30], MAE: 0.0188
+Test Batch [12/30], MAE: 0.0133
+Test Batch [13/30], MAE: 0.0419
+Test Batch [14/30], MAE: 0.0121
+Test Batch [15/30], MAE: 0.0204
+Test Batch [16/30], MAE: 0.0144
+Test Batch [17/30], MAE: 0.0109
+Test Batch [18/30], MAE: 0.0349
+Test Batch [19/30], MAE: 0.0152
+Test Batch [20/30], MAE: 0.0191
+Test Batch [21/30], MAE: 0.0468
+Test Batch [22/30], MAE: 0.0296
+Test Batch [23/30], MAE: 0.0259
+Test Batch [24/30], MAE: 0.0142
+Test Batch [25/30], MAE: 0.0213
+Test Batch [26/30], MAE: 0.0398
+Test Batch [27/30], MAE: 0.0110
+Test Batch [28/30], MAE: 0.0089
+Test Batch [29/30], MAE: 0.0044
+Test Batch [30/30], MAE: 0.0119
+Test Accuracy (within threshold of 5.0): 0.9664
+Overall Test MAE: 1.8366
+Overall Test RMSE: 2.5924
+Overall Test SMAPE: 1.6580
+Overall Test MAPE: 1.6626
+Overall Test MASE: 0.0163
+Overall Test OWA: 0.0123
+Total test time: 3.04 seconds
+Model memory size: 932.34 MB
+Test Batch [1/30], MAE: 0.0192
+Test Batch [2/30], MAE: 0.0162
+Test Batch [3/30], MAE: 0.0156
+Test Batch [4/30], MAE: 0.0185
+Test Batch [5/30], MAE: 0.0108
+Test Batch [6/30], MAE: 0.0229
+Test Batch [7/30], MAE: 0.0235
+Test Batch [8/30], MAE: 0.0151
+Test Batch [9/30], MAE: 0.0251
+Test Batch [10/30], MAE: 0.0167
+Test Batch [11/30], MAE: 0.0262
+Test Batch [12/30], MAE: 0.0203
+Test Batch [13/30], MAE: 0.0362
+Test Batch [14/30], MAE: 0.0209
+Test Batch [15/30], MAE: 0.0209
+Test Batch [16/30], MAE: 0.0377
+Test Batch [17/30], MAE: 0.0166
+Test Batch [18/30], MAE: 0.0180
+Test Batch [19/30], MAE: 0.0295
+Test Batch [20/30], MAE: 0.0486
+Test Batch [21/30], MAE: 0.0084
+Test Batch [22/30], MAE: 0.0157
+Test Batch [23/30], MAE: 0.0156
+Test Batch [24/30], MAE: 0.0241
+Test Batch [25/30], MAE: 0.0134
+Test Batch [26/30], MAE: 0.0117
+Test Batch [27/30], MAE: 0.0158
+Test Batch [28/30], MAE: 0.0104
+Test Batch [29/30], MAE: 0.0235
+Test Batch [30/30], MAE: 0.0234
+Test Accuracy (within threshold of 5.0): 0.9664
+Overall Test MAE: 1.8366
+Overall Test RMSE: 2.5924
+Overall Test SMAPE: 1.6580
+Overall Test MAPE: 1.6626
+Overall Test MASE: 0.0163
+Overall Test OWA: 0.0123
+Total test time: 3.68 seconds
